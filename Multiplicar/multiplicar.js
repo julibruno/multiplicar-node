@@ -56,7 +56,7 @@ let listarTabla = (base, limite=10) => {
         
        // console.log(data)
          //   resolve(`Tabla de ${base} creada con un limite de ${limite}`)
-      
+      //
         
     }
 
